@@ -1,19 +1,32 @@
 # Data Scientist
-As a data scientist and bioinformatician, I translate data into valuable and comprehensible insights. My goal is to improve results, make the right decisions, and save costs.
-I am experienced in machine learning, supervised and unsupervised algorithms, and data visualization techniques to present the results. I use Python,R,SQL QlikView, and Tableau for my data projects.
 
-###Education
-Biology, BSc, Missouri Southern State University
-Bioinformatics, MSc, University of Birmingham
+#### Technical Skills: Python, SQL, R, Pandas, Scikit Learn, Git, Azure, Tableau and Power BI
 
-###Work Experience
-Growth Strategist at Assutech, The Gambia
--Leveraged data analytics tools to gather insights into user behavior, product usage, and conversion metrics.
+## Education
+MSc., Bioinformatics | University of Birmingham UK (_September 2023_)
+BSc., Biology | Missouri Southern State University USA (_December 2016_)
+
+## Work Experience
+**Growth Strategist @ Assutech, The Gambia (_April 2022 - Present_)**
 -Conducted in-depth data analysis to identify trends, bottlenecks, and opportunities for improvement.
--Worked closely with clients to understand their business goals, challenges, and objectives.
 -Developed and executed strategies to improve user retention, reduce churn, and increase customer lifetime value.
 -Planned and executed A/B tests to assess the effectiveness of product features, user interface changes, and marketing initiatives.
--Managed ad campaigns, monitored performance, and optimized ad spend for maximum ROI.
 
-###Projects
--Predicting the onset of Hypertension based on Age,Gender,Cholesterol level and BMI using Machine Learning Models.
+**Laboratory Scientist @ National Public Health Laboratory (_May 2020 - September 2021)**
+-Perform laboratory assays relevant to routine clinical diagnosis, which includes HIV, Measles, Rubella and the recent COVID19 PCR testing.
+-Monitor process parameters, equipment performance, and safe working practices.
+-Prepare monthly laboratory reports, statistics and tabulations of laboratory results.
+
+**Research Scientist @ Howard Hughes Medical Institute (_January 2017 - April 2018_)**
+-Perform mouse genotyping and sterile tissue culture for designated projects.
+-Completed special projects as necessary by assisting senior research specialists.
+-Enabled the smooth running of operations by maintaining stock inventory and placing orders in the online procurement system.
+-Guaranteed the health of cell cultures by adhering to individual cell line protocols.
+
+
+## Projects
+### Binding host proteins to the M protein contributes to the mortality associated with influenza–Streptococcus pyogenes superinfections
+This published research project ffers a fresh perspective on the longstanding challenge of understanding how Influenza A Virus and Streptococcus pyogenes interact in a mouse model. This project investigates the connection between host proteins and the M protein in influenza-Streptococcus pyogenes superinfections, shedding light on their role in mortality.
+[Publication](https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.000532)
+### Predicting the onset of Hypertension based on Age,Gender,Cholesterol level and BMI using Machine Learning Models.
+My dissertation project focused on predicting the onset of hypertension using machine learning models and comparing the performances of all the models used. By analyzing key factors such as age, gender, cholesterol levels, and BMI, my aim was to develop an accurate prediction system. This innovative approach will provide valuable insights into early hypertension detection, facilitating proactive healthcare interventions and improved patient outcomes.
